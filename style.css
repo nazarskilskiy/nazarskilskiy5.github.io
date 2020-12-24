@@ -109,3 +109,7 @@ th, td{
     margin-top: auto;
     margin-bottom: 10px;
 }
+
+@media (min-width:768px)  { /* mobile */ }
+@media (min-width:992px) { /* tablets */ }
+@media (min-width:1200px) { /* desktops */ }
